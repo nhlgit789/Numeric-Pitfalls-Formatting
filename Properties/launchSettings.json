@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Numeric Pitfalls & Formatting": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
